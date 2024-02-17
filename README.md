@@ -5,10 +5,10 @@
 </h1>
 
 <div align="center"> 
-    <a href="http://github.com/SuperCodeNinjaMinato?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/SuperCodeNinjaMinato?color=4C1&logo=github"></a>
+    <a href="http://github.com/SuperShinyDev?tab=followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/SuperShinyDev?color=4C1&logo=github"></a>
     <!-- github -->
-    <a href="http://github.com/hirakawa/SuperCodeNinjaMinato" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/SuperCodeNinjaMinato/SuperCodeNinjaMinato?label=Profile%20update&style=fflat-square"></a>
+    <a href="http://github.com/hirakawa/SuperShinyDev" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/SuperShinyDev/SuperShinyDev?label=Profile%20update&style=fflat-square"></a>
 </div>
 <div align="center">
 <!-- website -->
@@ -225,9 +225,9 @@
 <b>⚡ Github Stats</b>
     <br />
     <p align="center">
-        <a href="https://github.com/SuperCodeNinjaMinato?tab=repositories">
-            <img width="54%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SuperCodeNinjaMinato&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-            <img width="45%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SuperCodeNinjaMinato&theme=gotham&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact"/>
+        <a href="https://github.com/SuperShinyDev?tab=repositories">
+            <img width="54%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SuperShinyDev&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+            <img width="45%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SuperShinyDev&theme=gotham&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact"/>
         </a>
     </p>
 
@@ -240,7 +240,7 @@
 <b>☄️ Github Streaks</b>
   
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SuperCodeNinjaMinato&theme=gotham&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SuperShinyDev&theme=gotham&hide_border=true" />
 
 
 
@@ -265,19 +265,19 @@
     <tbody>
       <tr>
 		<td><a href="https://subway-surfer.netlify.app/"><b>SubwaySurfers</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/SuperCodeNinjaMinato/SubwaySurfers?&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/SuperCodeNinjaMinato/SubwaySurfers?&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/SuperCodeNinjaMinato/SubwaySurfers?"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SuperCodeNinjaMinato/SubwaySurfers?"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/SuperCodeNinjaMinato/SubwaySurfers?"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/SuperShinyDev/SubwaySurfers?&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/SuperShinyDev/SubwaySurfers?&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/SuperShinyDev/SubwaySurfers?"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SuperShinyDev/SubwaySurfers?"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/SuperShinyDev/SubwaySurfers?"/></td>
       </tr>
       <tr>
 	      <td><a href="https://perf-sys-frontend.vercel.app/"><b>PerfSYS_Frontend</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/SuperCodeNinjaMinato/PerfSYS_Frontend?&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/SuperCodeNinjaMinato/PerfSYS_Frontend?&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/SuperCodeNinjaMinato/PerfSYS_Frontend?"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SuperCodeNinjaMinato/PerfSYS_Frontend?"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/SuperCodeNinjaMinato/PerfSYS_Frontend?"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/SuperShinyDev/PerfSYS_Frontend?&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/SuperShinyDev/PerfSYS_Frontend?&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/SuperShinyDev/PerfSYS_Frontend?"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SuperShinyDev/PerfSYS_Frontend?"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/SuperShinyDev/PerfSYS_Frontend?"/></td>
       </tr>
     </tbody>
   </table>
@@ -289,7 +289,7 @@
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SuperCodeNinjaMinato&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=SuperShinyDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
