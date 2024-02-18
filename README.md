@@ -12,7 +12,7 @@
 </div>
 <div align="center">
 <!-- website -->
-    <a href="https://supershinydev.netlify.app/"><img alt="Website badge" src="https://img.shields.io/badge/Potfolio-EC8B00?logo=google-chrome&logoColor=white">
+    <a href="https://supershinydev.webflow.so/"><img alt="Website badge" src="https://img.shields.io/badge/Potfolio-EC8B00?logo=google-chrome&logoColor=white">
     </a>
     <a href="https://discord.gg/zJcPHUnTfw"><img alt="discord badge" src="https://img.shields.io/badge/-Discord-5865f2?logo=Discord&logoColor=white"></a>
     <a href="https://telegram.org/superman_195"><img alt="Telegram badge" src="https://img.shields.io/badge/-Telegram-0077B5?logo=Telegram&logoColor=white"></a>
