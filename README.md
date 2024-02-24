@@ -1,7 +1,6 @@
 <h1 align="center">
     Hi <img src="./assets/Hi.gif" width="30px"> <br>
     I'm <b>Hirose Ibuki</b> (SuperShinyDev)<br>
-    広瀬息吹と申します。
 </h1>
 
 <div align="center"> 
@@ -65,6 +64,17 @@
       <a href='#' target="_blank" role="button">
           <img src="./assets/react_basic certificate.png" alt="frontend developer certification" width="2000" height="180" />
         <br>React(Basic)
+        </a>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <a href='#' target="_blank" role="button">
+          <img src="./assets/graphql.PNG" alt="graphql certification" width="2000" height="180" />
+        <br>GraphQL
         </a>
     </td>
   </tr>
