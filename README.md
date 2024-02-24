@@ -1,7 +1,6 @@
 <h1 align="center">
     Hi <img src="./assets/Hi.gif" width="30px"> <br>
     I'm <b>Hirose Ibuki</b> (SuperShinyDev)<br>
-    広瀬息吹と申します。
 </h1>
 
 <div align="center"> 
