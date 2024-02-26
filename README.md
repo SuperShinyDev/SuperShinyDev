@@ -1,6 +1,6 @@
 <h1 align="center">
     Hi <img src="./assets/Hi.gif" width="30px"> <br>
-    I'm <b>Hirose Ibuki</b> (SuperShinyDev)<br>
+    <b>Shinyプロフィール</b>にようこそ~<br>
 </h1>
 
 <div align="center"> 
