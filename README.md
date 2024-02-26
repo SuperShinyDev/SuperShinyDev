@@ -80,16 +80,6 @@
   </tr>
 </table>
 
-<table align="center">
-  <tr>
-    <td align="center" width="300">
-      <a href='#' target="_blank" role="button">
-          <img src="./assets/graphql.PNG" alt="graphql certification" width="2000" height="180" />
-        <br>GraphQL
-        </a>
-    </td>
-  </tr>
-</table>
 
 ### TECHNOLOGY
 
